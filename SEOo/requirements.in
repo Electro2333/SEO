@@ -1,0 +1,14 @@
+# Primary dependencies
+Flask
+hypercorn
+python-dotenv
+aiohttp
+requests
+openai
+scikit-learn
+asyncio
+
+# Development dependencies
+pytest
+black
+flake8 
